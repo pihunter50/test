@@ -1,2 +1,3 @@
-hi
-
+```math
+\mean{test}
+```
