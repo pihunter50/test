@@ -1,3 +1,3 @@
 ```math
-\mean{test}
+\mean
 ```
