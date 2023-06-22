@@ -1,3 +1,3 @@
 ```math
-\sum_
+\sum_{test}
 ```
